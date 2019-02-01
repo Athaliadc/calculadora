@@ -1,9 +1,0 @@
-body {
-  display: flex;
-  justify-content: center;
-  font-family: sans-serif;
-}
-
-button {
-  background-color: #rgb(255, 0, 0);
-}
